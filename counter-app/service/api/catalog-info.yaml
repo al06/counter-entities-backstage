@@ -9,7 +9,7 @@ metadata:
   tags:
     - http
   labels:
-    category: category1
+    category: category2
 spec:
   type: openapi
   lifecycle: production
