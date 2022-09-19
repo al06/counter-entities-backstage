@@ -8,6 +8,8 @@ metadata:
      title: Swagger UI
   tags:
     - http
+  labels:
+    category: category1
 spec:
   type: openapi
   lifecycle: production
