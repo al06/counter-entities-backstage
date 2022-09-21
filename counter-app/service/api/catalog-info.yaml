@@ -10,6 +10,7 @@ metadata:
     - http
   labels:
     category: category2
+    visibility: protected
 spec:
   type: openapi
   lifecycle: production
