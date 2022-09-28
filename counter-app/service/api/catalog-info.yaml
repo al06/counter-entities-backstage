@@ -10,7 +10,7 @@ metadata:
     - http
   labels:
     category: innovation
-    visibility: protected
+    visibility: public
 spec:
   type: openapi
   lifecycle: production

@@ -10,7 +10,7 @@ metadata:
     - http
   labels:
     category: finance
-    visibility: protected
+    visibility: private
 spec:
   type: openapi
   lifecycle: production
