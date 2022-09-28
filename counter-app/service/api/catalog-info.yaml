@@ -9,7 +9,7 @@ metadata:
   tags:
     - http
   labels:
-    category: category2
+    category: innovation
     visibility: protected
 spec:
   type: openapi
